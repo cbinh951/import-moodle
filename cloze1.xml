@@ -1,0 +1,36 @@
+<quiz>
+  <question type="cloze">
+    <text>
+      <![CDATA[
+        <p>
+          • Local jobs can be found in the 6.............
+          • Buy the 7............to get one free magazine (Job Plus)
+          • Feel stress and spend a lot of time looking for jobs
+          • Advisable to go to an 8..........instead of the recruitment seminar
+          • Bring a student card (10% discount)
+          • Referee:
+          - former boss (once had a job)
+          - one of the 9...............(if not)
+          • Intend to take the art course
+          • Fill out a 10............form at the end of the course
+        </p>
+      ]]>
+    </text>
+    <cloze>
+      <text>
+        <![CDATA[
+          • Local jobs can be found in the {1=adverts / advertisements}.
+          • Buy the {2=newspaper} to get one free magazine (Job Plus)
+          • Feel stress and spend a lot of time looking for jobs
+          • Advisable to go to an {3=agency} instead of the recruitment seminar
+          • Bring a student card (10% discount)
+          • Referee:
+          - former boss (once had a job)
+          - one of the {4=tutors} (if not)
+          • Intend to take the art course
+          • Fill out a {5=feedback} form at the end of the course
+        ]]>
+      </text>
+    </cloze>
+  </question>
+</quiz>

@@ -1,0 +1,166 @@
+<quiz>
+  <!-- Question 6 - 10 -->
+  <question type="description">
+    <name>
+      <text>Complete the notes below</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Notes on Jobs</p>
+                    <ul>
+                      <li>Local jobs can be found in the <input type="text" name="response[0]" size="10" />.</li>
+                      <li>Buy the <input type="text" name="response[1]" size="10" /> to get one free magazine (Job Plus).</li>
+                      <li>Feel stress and spend a lot of time looking for jobs.</li>
+                      <li>Advisable to go to an <input type="text" name="response[2]" size="10" /> instead of the recruitment seminar.</li>
+                      <li>Bring a student card (10% discount).</li>
+                      <li>Referee:
+                        <ul>
+                          <li>former boss (once had a job)</li>
+                          <li>one of the <input type="text" name="response[3]" size="10" /> (if not)</li>
+                        </ul>
+                      </li>
+                      <li>Intend to take the art course</li>
+                      <li>Fill out a <input type="text" name="response[4]" size="10" /> form at the end of the course.</li>
+                    </ul>]]></text>
+    </questiontext>
+  </question>
+
+  <!-- Section 2 - Questions 11 - 15 -->
+  <question type="multichoice">
+    <name>
+      <text>The reason why David is replacing Jane is that</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>11. The reason why David is replacing Jane is that</p>
+                    <p>A. she is unwell.</p>
+                    <p>B. she is very busy.</p>
+                    <p>C. she is inexperienced.</p>]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text>A. she is unwell.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. she is very busy.</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. she is inexperienced.</text>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>According to the speaker, what is the problem for the museum currently?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>12. According to the speaker, what is the problem for the museum currently?</p>
+                    <p>A. lack of staff</p>
+                    <p>B. lack of publicity</p>
+                    <p>C. lack of money</p>]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>A. lack of staff</text>
+    </answer>
+    <answer fraction="100">
+      <text>B. lack of publicity</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. lack of money</text>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Why were the thieves able to successfully steal the statue?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>13. Why were the thieves able to successfully steal the statue?</p>
+                    <p>A. The security device is outdated.</p>
+                    <p>B. The security guard is not well-trained.</p>
+                    <p>C. They knew what they were searching for.</p>]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>A. The security device is outdated.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. The security guard is not well-trained.</text>
+    </answer>
+    <answer fraction="100">
+      <text>C. They knew what they were searching for.</text>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>In order to improve security, they are going to</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>14. In order to improve security, they are going to</p>
+                    <p>A. get more closed-circuit television cameras.</p>
+                    <p>B. hire more security guards.</p>
+                    <p>C. buy more computers.</p>]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text>A. get more closed-circuit television cameras.</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. hire more security guards.</text>
+    </answer>
+    <answer fraction="0">
+      <text>C. buy more computers.</text>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>What kind of librarian are they looking for?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>15. What kind of librarian are they looking for?</p>
+                    <p>A. responsible</p>
+                    <p>B. experienced</p>
+                    <p>C. highly trained</p>]]></text>
+    </questiontext>
+    <answer fraction="0">
+      <text>A. responsible</text>
+    </answer>
+    <answer fraction="0">
+      <text>B. experienced</text>
+    </answer>
+    <answer fraction="100">
+      <text>C. highly trained</text>
+    </answer>
+  </question>
+
+  <!-- Correct Answers -->
+  <correctanswers>
+    <answer fraction="100">
+      <text>6 adverts / advertisements</text>
+    </answer>
+    <answer fraction="100">
+      <text>7 newspaper</text>
+    </answer>
+    <answer fraction="100">
+      <text>8 agency</text>
+    </answer>
+    <answer fraction="100">
+      <text>9 tutors</text>
+    </answer>
+    <answer fraction="100">
+      <text>10 feedback</text>
+    </answer>
+    <answer fraction="100">
+      <text>11 A</text>
+    </answer>
+    <answer fraction="100">
+      <text>12 B</text>
+    </answer>
+    <answer fraction="100">
+      <text>13 C</text>
+    </answer>
+    <answer fraction="100">
+      <text>14 A</text>
+    </answer>
+    <answer fraction="100">
+      <text>15 B</text>
+    </answer>
+  </correctanswers>
+</quiz>

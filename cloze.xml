@@ -1,0 +1,41 @@
+<quiz>
+  <!-- Question 6 - 10 -->
+  <question type="shortanswer">
+    <name>
+      <text>Complete the notes below</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Notes on Jobs</p>
+                    <ul>
+                      <li>Local jobs can be found in the <input type="text" name="response[0]" size="10" />.</li>
+                      <li>Buy the <input type="text" name="response[1]" size="10" /> to get one free magazine (Job Plus).</li>
+                      <li>Feel stress and spend a lot of time looking for jobs.</li>
+                      <li>Advisable to go to an <input type="text" name="response[2]" size="10" /> instead of the recruitment seminar.</li>
+                      <li>Bring a student card (10% discount).</li>
+                      <li>Referee:
+                        <ul>
+                          <li>former boss (once had a job)</li>
+                          <li>one of the <input type="text" name="response[3]" size="10" /> (if not)</li>
+                        </ul>
+                      </li>
+                      <li>Intend to take the art course</li>
+                      <li>Fill out a <input type="text" name="response[4]" size="10" /> form at the end of the course.</li>
+                    </ul>]]></text>
+    </questiontext>
+    <answer fraction="100">
+      <text>adverts</text>
+    </answer>
+    <answer fraction="100">
+      <text>newspaper</text>
+    </answer>
+    <answer fraction="100">
+      <text>agency</text>
+    </answer>
+    <answer fraction="100">
+      <text>tutors</text>
+    </answer>
+    <answer fraction="100">
+      <text>feedback</text>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,78 @@
+<question>
+  <name>Question 6 - 10</name>
+  <questiontype>cloze</questiontype>
+  <questiontext>
+    <p>Complete the notes below.</p>
+    <p>Write ONE WORD ONLY for each answer.</p>
+
+    <p>Notes on Jobs</p>
+    <p>• Local jobs can be found in the <answer>warehouses</answer>.</p>
+    <p>• Buy the <answer>newspaper</answer> to get one free magazine (Job Plus).</p>
+    <p>• Feel stress and spend a lot of time looking for jobs.</p>
+    <p>• Advisable to go to an <answer>agency</answer> instead of the recruitment seminar.</p>
+    <p>• Bring a student card (10% discount).</p>
+    <p>• Referee:</p>
+    <ul>
+      <li>former boss (once had a job)</li>
+      <li>one of your <answer>tutors</answer> (if not)</li>
+    </ul>
+    <p>• Intend to take the art course.</p>
+    <p>• Fill out a <answer>feedback</answer> form at the end of the course.</p>
+  </questiontext>
+  <generalfeedback>
+    <text>
+      Please fill in the blanks with the correct answers.
+    </text>
+  </generalfeedback>
+</question>
+
+<question>
+  <name>Question 11 - 15</name>
+  <questiontype>multiplechoice</questiontype>
+  <questiontext>
+    <p>Choose the correct letter, A, B or C.</p>
+
+    <p>11 The reason why David is replacing Jane is that</p>
+    <ol>
+      <li>A. she is unwell.</li>
+      <li>B. she is very busy.</li>
+      <li>C. she is inexperienced.</li>
+    </ol>
+    <p>12 According to the speaker, what is the problem for the museum currently?</p>
+    <ol>
+      <li>A. lack of staff</li>
+      <li>B. lack of publicity</li>
+      <li>C. lack of money</li>
+    </ol>
+    <p>13 Why were the thieves able to successfully steal the statue?</p>
+    <ol>
+      <li>A. The security device is outdated.</li>
+      <li>B. The security guard is not well-trained.</li>
+      <li>C. They knew what they were searching for.</li>
+    </ol>
+    <p>14 In order to improve security, they are going to</p>
+    <ol>
+      <li>A. get more closed-circuit television cameras.</li>
+      <li>B. hire more security guards.</li>
+      <li>C. buy more computers.</li>
+    </ol>
+    <p>15 What kind of librarian are they looking for?</p>
+    <ol>
+      <li>A. responsible</li>
+      <li>B. experienced</li>
+      <li>C. highly-trained</li>
+    </ol>
+  </questiontext>
+  <answer>
+    <choice>A</choice>
+    <choice>B</choice>
+    <choice>C</choice>
+    <choice>A</choice>
+    <choice>B</choice>
+  </answer>
+  <generalfeedback>
+    <text>
+      Please select the correct answer for each question.
+    </text>
+  </generalfeedback>
+</question>
